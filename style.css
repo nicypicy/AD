@@ -1,0 +1,17 @@
+body {
+    font-family: 'Merriweather', serif;
+    color: white;
+    background: white;
+}
+
+.ad {
+    border: 10px solid #a2d2ff;
+    background: #da627d;
+    text-align: center;
+    margin-top: 40px;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
+}
